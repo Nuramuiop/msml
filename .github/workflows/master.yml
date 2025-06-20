@@ -3,10 +3,10 @@
     on:
       push:
         branches:
-          - master
+          - main
       pull_request:
         branches:
-          - master
+          - main
      
     env:
       CSV_URL: "MLproject/student_habits_performance_prepros.csv"
@@ -48,4 +48,4 @@
               git config --global user.email ${{ secrets.GIT_EMAIL }}
               git add mlruns/
               git commit -m "Save mlruns from CI run"
-              git push origin main
+              git push origin master
