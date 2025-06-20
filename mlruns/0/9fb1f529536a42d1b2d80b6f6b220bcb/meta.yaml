@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/msml/msml/mlruns/0/9fb1f529536a42d1b2d80b6f6b220bcb/artifacts
+end_time: 1750434987272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fb1f529536a42d1b2d80b6f6b220bcb
+run_name: incongruous-cat-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750434979536
+status: 3
+tags: []
+user_id: runner
